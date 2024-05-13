@@ -1,0 +1,47 @@
+body{
+    background-color: aquamarine;
+}
+
+img{
+    width: 600px;
+    height: 480px;
+    display: block;
+    margin: auto;
+
+}
+
+h1{
+    color: orange;
+}
+
+.head2{
+    color: blue;
+}
+
+#head2{
+    color: pink;
+}
+
+p{
+    color: rgb(244, 25, 175);
+}
+
+.table-container{
+    width: 50%;
+    margin: 10px auto;   
+}
+
+table{
+width: 100%;
+    border-collapse:collapse
+}
+
+th, td{
+    border: 2px solid black;
+    padding: 12px;
+    text-align: center;
+}
+
+th{
+    background-color: rgb(241, 232, 133);
+}
